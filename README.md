@@ -32,4 +32,4 @@ The following components have been successfully deployed and are running:
 <img width="1299" height="702" alt="image" src="https://github.com/user-attachments/assets/b53d7e54-4028-4a1f-a412-1b0e8426adcb" />
 ### Fixed elasticsearch issue
 <img width="1299" height="716" alt="Screenshot from 2025-10-24 11-40-36" src="https://github.com/user-attachments/assets/fb571d10-e5f4-45a3-8094-73197b73e428" />
-
+<img width="1299" height="726" alt="image" src="https://github.com/user-attachments/assets/abc7af54-c085-4d03-9d69-d4771e5b4eb7" />
