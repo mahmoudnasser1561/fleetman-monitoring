@@ -42,3 +42,4 @@ The following components have been successfully deployed and are running:
 <img width="1298" height="636" alt="image" src="https://github.com/user-attachments/assets/a4bedbdf-aa79-41cf-87df-f6a92970c27f" />
 <img width="1298" height="497" alt="Screenshot from 2025-10-24 15-06-14" src="https://github.com/user-attachments/assets/7e09fdf5-9ea0-4730-8bf0-d7a32002477e" />
 
+###  [more about monitoring status](https://github.com/mahmoudnasser1561/fleetman-monitoring/tree/main/monitoring/monitoring.md)
