@@ -6,3 +6,7 @@ logging stack for the Fleetman system screenshots.
 
 ## container CPU Usage Metric for fleetman system
  <img width="1298" height="586" alt="image" src="https://github.com/user-attachments/assets/5388ce35-3579-405c-ad56-bebad885ba32" />
+
+## Grafana graphs
+
+<img width="1298" height="728" alt="image" src="https://github.com/user-attachments/assets/def23dcc-6b11-46d9-ba46-30f605eb683c" />
