@@ -8,5 +8,8 @@ logging stack for the Fleetman system screenshots.
  <img width="1298" height="586" alt="image" src="https://github.com/user-attachments/assets/5388ce35-3579-405c-ad56-bebad885ba32" />
 
 ## Grafana graphs
+<img width="1298" height="611" alt="image" src="https://github.com/user-attachments/assets/2111dc18-afd1-4325-8f45-683ccaec3cd0" />
+
+<br><br>
 
 <img width="1298" height="728" alt="image" src="https://github.com/user-attachments/assets/def23dcc-6b11-46d9-ba46-30f605eb683c" />
