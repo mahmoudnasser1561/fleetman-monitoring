@@ -37,3 +37,8 @@ The following components have been successfully deployed and are running:
 <br>
 <br>
 <img width="1299" height="656" alt="image" src="https://github.com/user-attachments/assets/f46a7265-528b-42e2-b632-8d2a0ddccba7" />
+<br> <br>
+<img width="1298" height="491" alt="image" src="https://github.com/user-attachments/assets/9271ff72-9b52-4ac8-a9b6-a0989c67246b" />
+<img width="1298" height="636" alt="image" src="https://github.com/user-attachments/assets/a4bedbdf-aa79-41cf-87df-f6a92970c27f" />
+<img width="1298" height="497" alt="Screenshot from 2025-10-24 15-06-14" src="https://github.com/user-attachments/assets/7e09fdf5-9ea0-4730-8bf0-d7a32002477e" />
+
