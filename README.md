@@ -26,3 +26,6 @@ The following components have been successfully deployed and are running:
 <img width="880" height="259" alt="all" src="https://github.com/user-attachments/assets/d25e486f-50e8-4d4e-9eaf-0799f0068add" />
 <br>
 <img width="1299" height="661" alt="image" src="https://github.com/user-attachments/assets/7df1295a-76f0-4bf4-82c6-dfdb45e882ce" />
+<br>
+<br>
+<img width="1299" height="711" alt="image" src="https://github.com/user-attachments/assets/f87249cd-e008-43b0-9862-8d463e1f7b1f" />
