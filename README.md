@@ -29,3 +29,7 @@ The following components have been successfully deployed and are running:
 <br>
 <br>
 <img width="1299" height="711" alt="image" src="https://github.com/user-attachments/assets/f87249cd-e008-43b0-9862-8d463e1f7b1f" />
+<img width="1299" height="702" alt="image" src="https://github.com/user-attachments/assets/b53d7e54-4028-4a1f-a412-1b0e8426adcb" />
+### Fixed elasticsearch issue
+<img width="1299" height="716" alt="Screenshot from 2025-10-24 11-40-36" src="https://github.com/user-attachments/assets/fb571d10-e5f4-45a3-8094-73197b73e428" />
+
