@@ -15,14 +15,15 @@ The following components have been successfully deployed and are running:
 - **Elasticsearch** (log storage & search)
 - **Kibana** (log visualization)
 
-### Kibana Dashboards
-<img width="1338" height="625" alt="Screenshot from 2025-11-18 12-11-15" src="https://github.com/user-attachments/assets/474ae85c-1ce5-49c9-ad4e-6b01b889a051" />
 
 <br>
 <img width="1299" height="711" alt="image" src="https://github.com/user-attachments/assets/f87249cd-e008-43b0-9862-8d463e1f7b1f" />
 <img width="1299" height="716" alt="Screenshot from 2025-10-24 11-40-36" src="https://github.com/user-attachments/assets/fb571d10-e5f4-45a3-8094-73197b73e428" />
+
+### Kibana Dashboards
 <img width="1299" height="726" alt="image" src="https://github.com/user-attachments/assets/abc7af54-c085-4d03-9d69-d4771e5b4eb7" />
-<img width="1299" height="737" alt="image" src="https://github.com/user-attachments/assets/ffc64df6-ccb3-4e80-b3a4-7d918f610449" />
+<img width="1368" height="767" alt="image" src="https://github.com/user-attachments/assets/d159ffe6-da06-42b7-b62b-ba32bd29b9ec" />
+
 <br>
 <br>
 <br> <br>
